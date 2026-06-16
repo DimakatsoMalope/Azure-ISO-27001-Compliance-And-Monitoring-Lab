@@ -59,34 +59,6 @@ Healthcare Analytics
 
 ![lab architecture](architecture/arch.png).
 
-The environment was designed using a defense-in-depth approach:
-
-Users
-
-↓
-
-Microsoft Entra ID
-
-↓
-
-Conditional Access
-
-↓
-
-Azure Resources
-
-↓
-
-Log Analytics
-
-↓
-
-Microsoft Sentinel
-
-↓
-
-Security Operations
-
 Supporting services:
 
 * Microsoft Defender for Cloud
@@ -163,8 +135,10 @@ The project identified and assessed key business risks.
 
 Implemented MFA for all users.
 
-[MFA POLICY SCREENSHOT HERE]
-
+![RBAC-User-Password_Rest](screenshots/RBAC-User-Password_Rest.png).
+![RBAC-User-MFA-Setup](screenshots/RBAC-User-MFA-Setup.png).
+![RBAC-User-MFA-Setup(2](screenshots/RBAC-User-MFA-Setup(2).png).
+![RBAC-User-MFA-Complete](screenshots/RBAC-User-MFA-Complete.png).
 ---
 
 ## Conditional Access
@@ -176,8 +150,8 @@ Implemented:
 * Admin Protection
 * Risk-Based Access
 
-[CONDITIONAL ACCESS POLICY SCREENSHOT HERE]
-
+![Sentinel_RBAC-Groups&Users](screenshots/Sentinel_RBAC-Groups&Users.png).
+![Conditional Access](screenshots/Conditional_Access.png).
 ---
 
 ## Privileged Identity Management
@@ -188,7 +162,11 @@ Implemented:
 * Approval Workflow
 * Time-Limited Elevation
 
-[PIM CONFIGURATION SCREENSHOT HERE]
+![Just-In-Time](screenshots/Just_In_Time.png).
+![Just-In-Time](screenshots/Just_In_Time2.png).
+![Approval_Workflow](screenshots/Approval_Workflow.png).
+![Approval_Workflow_breakglass](screenshots/Approval_Workflow_breakglass.png).
+![Time_Limited_Elevation](screenshots/Time_Limited_Elevation.png).
 
 ---
 
