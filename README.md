@@ -151,7 +151,7 @@ Implemented:
 * Risk-Based Access
 
 ![Sentinel_RBAC-Groups&Users](screenshots/Sentinel_RBAC-Groups&Users.png).
-![Conditional Access](screenshots/Conditional_Access.png).
+![Conditional Access](screenshots/Conditional_Access.PNG).
 ---
 
 ## Privileged Identity Management
@@ -162,11 +162,11 @@ Implemented:
 * Approval Workflow
 * Time-Limited Elevation
 
-![Just-In-Time](screenshots/Just_In_Time.png).
-![Just-In-Time](screenshots/Just_In_Time2.png).
-![Approval_Workflow](screenshots/Approval_Workflow.png).
-![Approval_Workflow_breakglass](screenshots/Approval_Workflow_breakglass.png).
-![Time_Limited_Elevation](screenshots/Time_Limited_Elevation.png).
+![Just-In-Time](screenshots/Just_In_Time.PNG).
+![Just-In-Time](screenshots/Just_In_Time2.PNG).
+![Approval_Workflow](screenshots/Approval_Workflow.PNG).
+![Approval_Workflow_breakglass](screenshots/Approval_Workflow_breakglass.PNG).
+![Time_Limited_Elevation](screenshots/Time_Limited_Elevation.PNG).
 
 ---
 
